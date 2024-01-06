@@ -9,4 +9,10 @@ Position - Pulse length<br>
 0°  - 1ms <br>
 90° - 1.5ms<br>
 180° - 2ms (not possible with the SGS90 only with a hardware fix) <br>
+
+Main file is located here:
+STM32F4xx_Servo_PWM/Core/Src/main.c
+STM32F4xx_Servo_PWM/Core/Inc/main.h
+
+
  
